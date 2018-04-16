@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523840309 source:c:\users\lenovo\desktop\proyectoencondtruccion\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1523840309 c:\users\lenovo\desktop\proyectoencondtruccion\utn.h
+
